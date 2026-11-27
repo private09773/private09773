@@ -23,7 +23,7 @@ Discord: [Zanop Technologies](https://discord.gg/ejpFwe3RzW)
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/markdown/markdown-original.svg" height="42" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/yaml/yaml-original.svg" height="42" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/toml/toml-original.svg" height="42" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/assembly/assembly-original.svg" height="42" />
+<img src="https://devicons.io/devicons/icons/nasm.svg" height="42" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" height="42" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nginx/nginx-original.svg" height="42" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jekyll/jekyll-original.svg" height="42" />
@@ -34,9 +34,5 @@ Discord: [Zanop Technologies](https://discord.gg/ejpFwe3RzW)
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/netlify/netlify-original.svg" height="42" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cloudflare/cloudflare-original.svg" height="42" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" height="42" />
-<img src="https://devicons.io/assets/icons/haml/haml-original.svg" height="42" />
-<img src="https://devicons.io/assets/icons/pug/pug-original.svg" height="42" />
-<img src="https://devicons.io/assets/icons/slim/slim-original.svg" height="42" />
-</p>
 
 For inquiries, contact me at <airwhite20@gmail.com> or <tempt0576@gmail.com> or <johnadman@zanop-technologies.cc.cd>. Also contact me by my Discord, `private09773`.
