@@ -27,6 +27,9 @@ Discord: [Zanop Technologies](https://discord.gg/ejpFwe3RzW)
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" height="42" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nginx/nginx-original.svg" height="42" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jekyll/jekyll-original.svg" height="42" />
+<img src="https://devicons.io/devicons/icons/pug.svg" height="32" />
+<img src="https://devicons.io/devicons/icons/haml.svg" height="32" />
+<img src="https://devicons.io/devicons/icons/slim.svg" height="32" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vercel/vercel-original.svg" height="42" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/netlify/netlify-original.svg" height="42" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cloudflare/cloudflare-original.svg" height="42" />
