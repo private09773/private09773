@@ -39,6 +39,9 @@ Discord: [Zanop Technologies](https://discord.gg/ejpFwe3RzW)
 <p align="center">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" height="42" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscodium/vscodium-original.svg" height="42" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" height="42" />                
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" height="42" />    
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" height="42" />
 </p>
+
+
 For inquiries, contact me at <airwhite20@gmail.com> or <tempt0576@gmail.com> or <johnadman@zanop-technologies.cc.cd> **for questions and recruitment only**. Also contact me by my Discord, `private09773`.
