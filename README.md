@@ -44,4 +44,4 @@ Discord: [Zanop Technologies](https://discord.gg/ejpFwe3RzW)
 </p>
 
 
-For inquiries, contact me at <airwhite20@gmail.com> or <tempt0576@gmail.com> or <johnadman@zanop-technologies.cc.cd> **for questions and recruitment only**. Also contact me by my Discord, `private09773`.
+For inquiries, contact me at <johnadman@zanop-technologies.cc.cd> **for questions and recruitment only**. Also contact me by my Discord, `private09773`.
